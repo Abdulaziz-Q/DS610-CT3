@@ -1,5 +1,5 @@
 # DS620-CT3
-Critical Thinking Assignment 3 is part of DS620 (Advanced Applied Statistics) course
+Critical Thinking Assignment 3 is part of DS610 (Advanced Applied Statistics) course
 
 ### CT3: Solve 4 Problems using R
 
